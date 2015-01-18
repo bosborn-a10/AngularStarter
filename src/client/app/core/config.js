@@ -12,8 +12,8 @@
     }
 
     var config = {
-        appErrorPrefix: '[GulpPatterns Error] ', //Configure the exceptionHandler decorator
-        appTitle: 'Gulp Patterns Demo',
+        appErrorPrefix: '[StarterApp Error] ', //Configure the exceptionHandler decorator
+        appTitle: 'StarterApp',
         imageBasePath: '/images/photos/',
         unknownPersonImageSource: 'unknown_person.jpg'
     };
@@ -45,7 +45,7 @@
             };
 
             routerHelperProvider.configure({
-                docTitle: 'Gulp: ',
+                docTitle: 'StarterApp: ',
                 resolveAlways: resolveAlways
             });
         }

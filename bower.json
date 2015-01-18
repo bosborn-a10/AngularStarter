@@ -1,11 +1,7 @@
 {
-  "name": "Gulp-Patterns-Demo",
-  "version": "0.1.1",
-  "description": "Gulp Patterns Demo",
-  "authors": [
-    "John Papa"
-  ],
-  "license": "MIT",
+  "name": "AngularStarter",
+  "version": "1.0.0",
+  "description": "Starter Project for an Angular app",
   "homepage": "https://github.com/johnpapa/gulp-patterns",
   "ignore": [
     "**/.*",

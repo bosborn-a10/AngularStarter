@@ -1,11 +1,11 @@
 {
-  "name": "Angular Starter",
+  "name": "AngularStarter",
   "version": "1.0.0",
   "description": "Starter Project for an Angular app",
-  "homepage": "https://github.com/johnpapa/gulp-patterns",
+  "homepage": "https://github.com/booneosborn/AngularStarter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/gulp-patterns.git"
+    "url": "https://github.com/booneosborn/AngularStarter"
   },
   "scripts": {
     "init": "npm install",

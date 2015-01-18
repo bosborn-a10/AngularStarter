@@ -1,5 +1,5 @@
 # Angular Starter
-This will get you up and running an Angular app with all the fixings. Routing, error handling, logging, styling, Gulp builds, tests, ci, code analysis and possibly much more. Most of this is from John Papa and all the work he puts into the Angular world. http://www.johnpapa.net/
+This will get you up and running an Angular app with all the fixings. Routing, error handling, logging, styling, Gulp builds, tests, ci, code analysis and much more. Most of this is from John Papa and all the work he puts into the Angular world. http://www.johnpapa.net/
 
 ## Requirements
 
